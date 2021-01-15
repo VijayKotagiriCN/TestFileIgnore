@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="8.34s"
+		durationms="8342"
+		type="root"
+		rid="22eaf22a4094c8"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="user"
+		rxversion="9.3.2.0"
+		host="DESKTOP-KC020V0"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-IN"
+		screenresolution="1360x768"
+		timestamp="15-01-2021 06:18:36"
+		timestampiso="2021-01-15T00:48:36"
+		endtime="15-01-2021 06:18:45"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Generate_QS_Report_PDF_Verify">
+		<detail>
+			Generate_QS_Report_PDF_Verify
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.446"
+			timeRelativeToTestModuleStartTime="00:03.446"
+			timeWallClock="06:18:40"
+			time="00:03.446"
+			level="Info"
+			category="Delay">
+			<message>
+				Waiting for 2s.
+			</message>
+			<metainfo
+				itemindex="19"
+				codefile="c:\Users\user\Documents\Ranorex\RanorexStudio Projects\QuicksightReport_GeneratePDF\QuicksightReport_GeneratePDF\Generate_QS_Report_PDF_Verify.cs"
+				codeline="82"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.469"
+			timeRelativeToTestModuleStartTime="00:05.469"
+			timeWallClock="06:18:42"
+			time="00:05.469"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'CitizenNet.PDF_Close' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='staging.citizennet.com']/body/div[3]/div/div/div/div[1]/?/?/a[@innertext='Close']"
+				itempath="body/div[3]/div/div/div/div[1]/?/?/a[@innertext='Close']"
+				fullname="QuicksightReport_GeneratePDFRepository.CitizenNet.PDF_Close"
+				id="c577b7fba7184e7da449dd65779b794b"
+				timeout="60000"
+				codefile="c:\Users\user\Documents\Ranorex\RanorexStudio Projects\QuicksightReport_GeneratePDF\QuicksightReport_GeneratePDF\Generate_QS_Report_PDF_Verify.cs"
+				codeline="85"
+				itemindex="20"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>
