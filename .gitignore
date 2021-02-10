@@ -1,2 +1,4 @@
-Test2.txt
-Test1.rtf
+*.rxlog
+*.data
+*.pdf
+*.zip
